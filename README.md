@@ -12,6 +12,12 @@ The central thesis of the project is the strategic application of blockchain tec
 
 ---
 
+# Detailed and full Decentralized Disaster Relief Fund DAO: Technical Documentation
+## https://docs.google.com/document/d/1rdlE2Tcic01aN6Hacjn0FQvlNaUlESEEQ9xw32araHA/edit?usp=sharing
+
+# Pitch Deck Presentation:
+https://www.canva.com/design/DAGq-rRCuXI/HKpnF3kQudmelnDlvm_9qQ/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0
+
 ## 2.0 Getting Started (Developer Setup)
 
 ### 2.1 Prerequisites
