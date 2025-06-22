@@ -5,7 +5,10 @@
 # Pitch Deck Presentation:
 https://www.canva.com/design/DAGq-rRCuXI/HKpnF3kQudmelnDlvm_9qQ/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0
 
-# Decentralized Disaster Relief Fund DAO: Technical Documentation
+
+
+
+# Decentralized Disaster Relief Fund DAO:  
 
 ## 1.0 Introduction
 
